@@ -1,4 +1,6 @@
 ---
+title: Manage Docs Versions
+slug: manage-docs-versions
 sidebar_position: 1
 ---
 
